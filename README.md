@@ -12,6 +12,6 @@ Portfolio of projects from my Data Visualization course. This will include the c
 
 **Business question:** Which account service policy should Southwest Office Solutions change for FY2026 to reduce account losses?
 
-**Tableau workbook:** [View my Tableau analysis](https://public.tableau.com/app/profile/bo.brenner/viz/AdvancinginExcelandTableauPt2BoBrenner)
+**Tableau workbook:** [View my Tableau analysis](https://public.tableau.com/app/profile/bo.brenner/viz/AdvancinginExcelandTableauPt2BoBrenner/Bottom10Accounts)
 
 **What I would change:** I would examine customer retention before reducing service for unprofitable accounts.
