@@ -24,3 +24,12 @@ Portfolio of projects from my Data Visualization course. This will include the c
 [View Power BI Training Story](https://public.tableau.com/shared/FT268FGFW?:display_count=n&:origin=viz_share_link))
 
 In my previous Southwest analysis, I had to manually summarize the sales data before I could build the visualizations I needed in Tableau. Power BI can handle that summarizing within the data model and update the results when the underlying data is refreshed. For a report that needs to be updated every month, I would use Power BI because I would not have to keep rebuilding the same steps each time new data comes in. Tableau still works well for creating visualizations, but Power BI makes more sense to me for a recurring report that other people need to use and update.
+
+## Introduction to DAX in Power BI
+
+**Completed:** October 5, 2026
+
+**Tableau Story:**  
+[View Power BI Training Story](https://public.tableau.com/shared/FT268FGFW?:display_count=n&:origin=viz_share_link)
+
+In the Introduction to DAX course, I learned how to create calculations directly in Power BI using measures, calculated columns, and functions like SUM, COUNT, DIVIDE, and CALCULATE. These calculations can automatically respond to filters and update when the data changes. This would be useful for recurring reports because I would not have to manually redo the same calculations every time new data is added. DAX makes Power BI more useful for reports that need to stay updated and allow users to interact with the data.
