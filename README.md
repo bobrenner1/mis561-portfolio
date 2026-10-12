@@ -39,7 +39,7 @@ In the Introduction to DAX course, I learned how to create calculations directly
 **Completed:** October 12, 2026
 
 **Tableau Story:**  
-[View Power BI Training Story](https://public.tableau.com/shared/FT268FGFW?:display_count=n&:origin=viz_share_link)
+[View Power BI Training Story]([https://public.tableau.com/shared/FT268FGFW?:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/bo.brenner/viz/PowerBITrainingCertificates_17906612163360/PowerBIStory?publish=yes))
 
 Sarah,
 
