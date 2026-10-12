@@ -41,6 +41,7 @@ In the Introduction to DAX course, I learned how to create calculations directly
 **Tableau Story:**  
 [View Power BI Training Story]([https://public.tableau.com/shared/FT268FGFW?:display_count=n&:origin=viz_share_link](https://public.tableau.com/app/profile/bo.brenner/viz/PowerBITrainingCertificates_17906612163360/PowerBIStory?publish=yes))
 
+
 Sarah,
 
 My Southwest analysis and Power BI training have helped me prepare for business intelligence work by connecting calculations and visuals to business decisions. In my Southwest profitability analysis, I would rebuild the category comparison as a Power BI matrix with conditional formatting to highlight negative profit margins. This would help Anita identify which categories need attention without searching through every value. Another example is the manual summarizing I did before creating my Southwest visualizations in Tableau. For a recurring report, I would move those summaries into Power BI’s data model and use DAX measures for sales, profit, and profit margin. Those measures would respond to filters and recalculate as new data is loaded, reducing repeated work.
