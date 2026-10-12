@@ -33,3 +33,18 @@ In my previous Southwest analysis, I had to manually summarize the sales data be
 [View Power BI Training Story](https://public.tableau.com/shared/FT268FGFW?:display_count=n&:origin=viz_share_link)
 
 In the Introduction to DAX course, I learned how to create calculations directly in Power BI using measures, calculated columns, and functions like SUM, COUNT, DIVIDE, and CALCULATE. These calculations can automatically respond to filters and update when the data changes. This would be useful for recurring reports because I would not have to manually redo the same calculations every time new data is added. DAX makes Power BI more useful for reports that need to stay updated and allow users to interact with the data.
+
+## Data Visualization in Power BI
+
+**Completed:** October 12, 2026
+
+**Tableau Story:**  
+[View Power BI Training Story](https://public.tableau.com/shared/FT268FGFW?:display_count=n&:origin=viz_share_link)
+
+Sarah,
+
+My Southwest analysis and Power BI training have helped me prepare for business intelligence work by connecting calculations and visuals to business decisions. In my Southwest profitability analysis, I would rebuild the category comparison as a Power BI matrix with conditional formatting to highlight negative profit margins. This would help Anita identify which categories need attention without searching through every value. Another example is the manual summarizing I did before creating my Southwest visualizations in Tableau. For a recurring report, I would move those summaries into Power BI’s data model and use DAX measures for sales, profit, and profit margin. Those measures would respond to filters and recalculate as new data is loaded, reducing repeated work.
+
+At Southwest, I would use Excel for smaller analyses, quick checks, and calculations that coworkers need to review directly. I would use Tableau for interactive exploration and presenting patterns across categories, regions, and customer segments. I would choose Power BI for monthly reports that need regular updates and consistent calculations. One gap I still need to close is maintaining a report that other people depend on. I would practice by rebuilding a Southwest report in Power BI, adding another month of data, and checking the updated totals against Excel. That would help me learn how to catch errors before others use the report.
+
+**AI acknowledgment:** I used ChatGPT to help draft and edit this reflection.
