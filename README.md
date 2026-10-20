@@ -48,3 +48,11 @@ My Southwest analysis and Power BI training have helped me prepare for business 
 At Southwest, I would use Excel for smaller analyses, quick checks, and calculations that coworkers need to review directly. I would use Tableau for interactive exploration and presenting patterns across categories, regions, and customer segments. I would choose Power BI for monthly reports that need regular updates and consistent calculations. One gap I still need to close is maintaining a report that other people depend on. I would practice by rebuilding a Southwest report in Power BI, adding another month of data, and checking the updated totals against Excel. That would help me learn how to catch errors before others use the report.
 
 **AI acknowledgment:** I used ChatGPT to help draft and edit this reflection.
+
+**Advancing in Excel and Tableau, Part 3**
+
+**Business Question:** Which noncontactless cards should Bear Down Bank replace early to improve contactless readiness while avoiding unnecessary replacement costs?
+
+**Tableau Workbook:** [Insert Tableau Public link](https://public.tableau.com/app/profile/bo.brenner/viz/MIS561AdvancinginExcelandTableauPt3/ExploratoryDash?publish=yes)
+
+**One thing I would change:** I would add more information about customer card usage to help determine which customers would benefit the most from receiving a contactless card early.
