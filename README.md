@@ -57,4 +57,10 @@ At Southwest, I would use Excel for smaller analyses, quick checks, and calculat
 
 **One thing I would change:** I would add more information about customer card usage to help determine which customers would benefit the most from receiving a contactless card early.
 
-**MIS 561 Pt. 4: Card Growth Analysis – Wildcat Rewards Offer** | **Business question:** Which customer group should receive the pilot mailing, and how many customers qualify under the approved guardrails at a 670 FICO cutoff? | [Tableau workbook](https://public.tableau.com/app/profile/bo.brenner/viz/CardGrowthAnalysisWildcatRewardsOffer-BoBrenner/ExploratoryDashboard?publish=yes) | **One thing I’d change:** I’d show each generation’s total customer count directly on the chart instead of only in the tooltip.
+**MIS 561 Pt. 4: Card Growth Analysis – Wildcat Rewards Offer**  
+
+**Business question:** Which customer group should receive the pilot mailing, and how many customers qualify under the approved guardrails at a 670 FICO cutoff? 
+
+[Tableau workbook](https://public.tableau.com/app/profile/bo.brenner/viz/CardGrowthAnalysisWildcatRewardsOffer-BoBrenner/ExploratoryDashboard?publish=yes) 
+
+**One thing I’d change:** I’d show each generation’s total customer count directly on the chart instead of only in the tooltip.
