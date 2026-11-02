@@ -64,3 +64,21 @@ At Southwest, I would use Excel for smaller analyses, quick checks, and calculat
 [Tableau workbook](https://public.tableau.com/app/profile/bo.brenner/viz/CardGrowthAnalysisWildcatRewardsOffer-BoBrenner/ExploratoryDashboard?publish=yes) 
 
 **One thing I’d change:** I’d show each generation’s total customer count directly on the chart instead of only in the tooltip.
+
+## Nov 2, 2026 · Data Storytelling with Adobe Express
+
+Work sample for Jordan Ellis, VP of Card Growth at Bear Down Bank: send the Wildcat Rewards pilot mailing to the 128 eligible Gen Z customers. Gen Z has the highest eligible share at 26.4% under the approved 670 FICO cutoff.
+
+[Work sample (PDF)](https://github.com/bobrenner1/mis561-portfolio/blob/main/adobe/brenner-data-storytelling.pdf) · [Adobe Express](https://express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:c8f69651-4483-56e1-9326-98405112ed8c)
+
+**Design choice:** I used a ranked horizontal bar chart instead of the full dashboard so Jordan can quickly compare eligibility across generations. I added callouts showing the 128 eligible Gen Z customers and their 26.4% eligibility rate, with eligible counts and group totals beside each bar to show the available mailing audience. I removed the state map and FICO band breakdown from my earlier dashboard to keep the page focused on selecting the pilot audience.
+
+**Training:** Pending completion on Nov 2, 2026.
+
+**AI acknowledgment:** I used ChatGPT by OpenAI on Nov 2, 2026 to help verify aggregate figures from my workbook, develop the initial work sample design, and draft this README entry. I imported the design into Adobe Express and configured the brand and publishing settings. The exact model version was not recorded.
+
+OpenAI. (2026). *ChatGPT* [Large language model]. https://chatgpt.com/
+
+**Original AI prompt:**
+
+“Help me prepare a professional one-page work sample for my MIS 561 Data Storytelling assignment using my Wildcat Rewards Tableau analysis. Focus on recommending a pilot mailing audience to Jordan Ellis at Bear Down Bank. Help verify the eligibility figures, organize the chart and callouts, and apply Brenner Analytics branding. Follow the rubric, include the required course footer, and keep the recommendation clear and readable for an executive.”
