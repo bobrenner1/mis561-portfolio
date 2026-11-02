@@ -73,7 +73,7 @@ Work sample for Jordan Ellis, VP of Card Growth at Bear Down Bank: send the Wild
 
 **Design choice:** I used a ranked horizontal bar chart instead of the full dashboard so Jordan can quickly compare eligibility across generations. I added callouts showing the 128 eligible Gen Z customers and their 26.4% eligibility rate, with eligible counts and group totals beside each bar to show the available mailing audience. I removed the state map and FICO band breakdown from my earlier dashboard to keep the page focused on selecting the pilot audience.
 
-**Training:** Pending completion on Nov 2, 2026.
+**Training:** Completed on Nov 2, 2026.
 
 **AI acknowledgment:** I used ChatGPT by OpenAI on Nov 2, 2026 to help verify aggregate figures from my workbook, develop the initial work sample design, and draft this README entry. I imported the design into Adobe Express and configured the brand and publishing settings. The exact model version was not recorded.
 
