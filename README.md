@@ -89,13 +89,13 @@ Pitch to Jordan Ellis, VP of Card Growth at Bear Down Bank: approve a six week f
 
 [Pitch deck (PDF)](https://github.com/bobrenner1/mis561-portfolio/blob/main/adobe/brenner-product-pitch.pdf)
 
-**Adobe Express:** PENDING. Add the published view only link for this pitch deck.
+**Adobe Express:** [Adobe Express](https://express.adobe.com/publishedV2/urn:aaid:sc:VA6C2:57a99871-e0ec-59d2-86b8-bd1a963c0b79)
 
 **Design choice:** I used a Tableau inspired layout with white backgrounds, blue accents, directly labeled charts and no gridlines. The visuals compare eligible shares and customer counts across generations. Each slide focuses on one point, moving from the business problem to the evidence, proposed engagement and approval request.
 
 **Toughest objection:** “Why hire us if this only proves eligibility, not that Gen Z will respond?” Slide 6 addresses this by proposing a scorecard for applications, approvals and activations, with measurement definitions and decision thresholds approved before launch. Slide 7 keeps the engagement focused on pilot preparation without promising a response rate or financial return.
 
-**Training:** PENDING. Add the actual completion date for Product Pitch with Generative AI.
+**Training:** Completed on Nov 14, 2026.
 
 **AI acknowledgment:** I used ChatGPT by OpenAI on Nov 16, 2026 to help draft and revise the eight slide pitch, recreate charts using values from my existing work sample and Tableau dashboard, develop the executive objection and response, adjust the presentation design, export the PDF and draft this README entry. The tool identified itself as GPT-6 based Codex, but the exact model version was unavailable. No AI generated imagery appears in the deck. Any additional AI use during the Adobe training will be added before submission.
 
