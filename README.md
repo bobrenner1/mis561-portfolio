@@ -82,3 +82,26 @@ OpenAI. (2026). *ChatGPT* [Large language model]. https://chatgpt.com/
 **Original AI prompt:**
 
 “Help me prepare a professional one-page work sample for my MIS 561 Data Storytelling assignment using my Wildcat Rewards Tableau analysis. Focus on recommending a pilot mailing audience to Jordan Ellis at Bear Down Bank. Help verify the eligibility figures, organize the chart and callouts, and apply Brenner Analytics branding. Follow the rubric, include the required course footer, and keep the recommendation clear and readable for an executive.”
+
+November 16, 2026 · Product Pitch with Generative AI in Adobe Express
+Pitch to Jordan Ellis, VP of Card Growth at Bear Down Bank: approve a six week first phase to validate the 128 eligible Gen Z customers and prepare the Wildcat Rewards pilot for a separate launch decision.
+
+Pitch deck (PDF)
+
+Adobe Express: PENDING. Add the actual view only link after publishing.
+
+Toughest objection: “Why hire us if this only proves eligibility, not that Gen Z will respond?” Slide 6 answers this by defining a measurement plan and requiring Jordan to approve decision thresholds before launch. Slide 7 limits the engagement to pilot preparation, with no promised response rate, savings or ROI.
+
+AI use: ChatGPT by OpenAI, GPT-6 based Codex (exact model version not exposed), November 16, 2026, helped draft and revise slide text across slides 1–8, format the PDF, adapt the existing chart on slide 4, crop the original course visual on slide 5, identify and answer the objection on slide 6, and draft this README entry. Chart values come from my published Flex 10 work sample and Tableau course dashboard, not generated data. No AI generated imagery appears in the deck. Add the tool, displayed version, actual date and purpose for the required Adobe generative tool trial and any later AI use.
+
+Training completed: PENDING. Replace with the actual completion date for Product Pitch with Generative AI.
+Evidence notes
+The published Flex 10 work sample identifies September 30, 2026 as its source date and covers 2,000 customers and 5,802 card records. The Tableau dashboard is labeled October 26, 2026. The eligible generation counts agree, but the snapshot dates have not been reconciled against the underlying extracts. Slide 5 discloses this difference, and slides 3 and 7 require reconciliation before launch.
+
+Slide 4 adapts the work sample's eligible share chart. Slide 5 includes the eligible by generation chart cropped from the course dashboard. Both preserve the original values. The deck does not claim new calculations from the raw workbook.
+
+Original work sample: https://github.com/bobrenner1/mis561-portfolio/blob/main/adobe/brenner-data-storytelling.pdf
+
+Course dashboard: https://public.tableau.com/app/profile/bo.brenner/viz/CardGrowthAnalysisWildcatRewardsOffer-BoBrenner/ExploratoryDashboard
+
+Portfolio README: https://github.com/bobrenner1/mis561-portfolio/blob/main/README.md
